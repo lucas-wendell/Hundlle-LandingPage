@@ -1,6 +1,6 @@
 # Hunddle Landing Page
 
-Landing Page feita como projeto de estudo seguindo o desafio do frontend mentor. ([Desafio](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100))
+Landing Page feita como projeto de estudo seguindo o desafio do frontend mentor. ([Clique aqui para ver o desafio](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100))
 
 ## **O que aprendi com o projeto?**
 
