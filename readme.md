@@ -7,6 +7,7 @@ Landing Page feita como projeto de estudo seguindo o desafio do frontend mentor.
 Com o projeto consegui melhorar minhas habilidades em flexbox, propriedade position e reponsividade. 
 
 **Deafios do projeto:**
+
 Um dos maiores desafios do projeto foi faze-lo responsivo e manter o design bonito, elegante e principalmente fazer com que o design siga seu propósito.
 
 ## **Tecnologias usadas:**
