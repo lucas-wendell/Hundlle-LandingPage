@@ -8,7 +8,7 @@ Com o projeto consegui melhorar minhas habilidades em flexbox, propriedade posit
 
 **Deafios do projeto:**
 
-Um dos maiores desafios do projeto foi faze-lo responsivo e manter o design bonito, elegante e principalmente fazer com que o design siga seu propósito.
+Um dos maiores desafios do projeto foi fazê-lo responsivo e manter o design bonito, elegante e principalmente fazer com que o design siga seu propósito.
 
 ## **Tecnologias usadas:**
 
