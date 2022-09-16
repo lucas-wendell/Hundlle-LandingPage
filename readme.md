@@ -15,7 +15,7 @@ Um dos maiores desafios do projeto foi fazê-lo responsivo e manter o design bon
     - Html ✅
     - CSS ✅
 
-![Visualize o Projeto](https://l-wendell.github.io/Hundlle-LandingPage/)
+[Visualize o Projeto](https://l-wendell.github.io/Hundlle-LandingPage/)
 
 # Preview:
 
