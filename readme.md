@@ -4,7 +4,7 @@ Landing Page feita como projeto de estudo seguindo o desafio do frontend mentor.
 
 ## **O que aprendi com o projeto?**
 
-Com o projeto consegui melhorar minhas habilidades em flexbox, propriedade position e reponsividade. 
+Com o projeto consegui melhorar minhas habilidades em flexbox, propriedade position e responsividade. 
 
 **Deafios do projeto:**
 
